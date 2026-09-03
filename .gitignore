@@ -1,0 +1,8 @@
+data/demo_data.txt
+data/demo_data.txt.zip
+data/__MACOSX/
+results/repro_test_HiC_graph.txt
+.venv/
+.DS_Store
+__pycache__/
+*.pyc
