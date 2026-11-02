@@ -1,0 +1,16 @@
+
+=== LINE (order 1+2 concatenated) ===
+clustered bins (internal metrics): 26977
+Silhouette Score:      0.00569
+Davies-Bouldin Index:  9.0750
+overlap bins with reference: 26226
+Adjusted Rand Index (ARI): -0.00003
+Normalized Mutual Info (NMI): 0.00017
+
+=== HOPE (order-1 Katz) ===
+clustered bins (internal metrics): 26977
+Silhouette Score:      0.06380
+Davies-Bouldin Index:  5.6569
+overlap bins with reference: 26226
+Adjusted Rand Index (ARI): 0.34236
+Normalized Mutual Info (NMI): 0.36976
